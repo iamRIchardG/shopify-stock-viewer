@@ -24,13 +24,13 @@ Easy configuration via environment variables
     SHOPIFY_PASSWORD=your_password_here
     SHOPIFY_STORE_NAME=your_store_name_here
 
-3. Install dependencies 
+4. Install dependencies 
 
     pip install -r requirements.txt
 
-4. Run the App 
+5. Run the App 
 
     python app.py
 
-5. Open in your browser Visit http://127.0.0.1:5000/ 
+6. Open in your browser Visit http://127.0.0.1:5000/ 
     to view your Shopify store inventory.
