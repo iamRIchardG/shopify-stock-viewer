@@ -6,6 +6,11 @@ Fetches product data from Shopify API
 Displays product variants, prices, and inventory quantities
 Easy configuration via environment variables
 
+## Screenshot
+
+![Product Stock Table](product-table.png)
+
+*Example output showing product inventory displayed in a table*
 
 ## Setup
 1. Clone the repo:
